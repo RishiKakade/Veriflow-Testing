@@ -2612,7 +2612,7 @@ endtask // test_summary
 // Tasks
 ////////////////////
 
-`include "test_mii.v"
+`include "./test_mii/test_mii.v"
 
 
 endmodule
