@@ -1,0 +1,5 @@
+trace.vcd
+obj_dir/
+.metadata/
+Debug_Vtest/
+RemoteSystemsTempFiles/
